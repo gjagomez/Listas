@@ -10,7 +10,7 @@ Este proyecto implementa una estructura de datos de listas enlazadas en Java. La
 
 ## Clase `Lista`
 
-La clase `Lista` proporciona varias funcionalidades para manejar listas enlazadas. A continuación se presentan los métodos principales:
+La clase `Lista` proporciona varias funcionalidades para manejar listas enlazadas.
 
 ### Métodos
 
